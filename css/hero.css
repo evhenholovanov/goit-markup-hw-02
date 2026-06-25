@@ -1,0 +1,12 @@
+#hero {
+  background-color: #2e2f42;
+  color: white;
+}
+
+button {
+  background-color: #4d5ae5;
+  color: white;
+}
+button:hover {
+  background-color: #404bbf;
+}
