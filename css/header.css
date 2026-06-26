@@ -1,4 +1,4 @@
-#header {
+.header {
   background-color: inherit;
 }
 .address-ul-li-a,
@@ -9,6 +9,7 @@
 }
 
 .nav-ul-li-a {
+  color: #2e2f42;
   font-weight: 500;
 }
 .address-ul-li-a {
@@ -24,16 +25,12 @@
 .address-ul-li-a:hover {
   color: #404bbf;
 }
-.nav-ul,
-.address-ul {
-  list-style-type: none;
-}
-
 .header-logo {
+  font-size: 18px;
   line-height: 1.3;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   text-decoration: none;
   text-transform: uppercase;
 }

@@ -1,6 +1,6 @@
-#team {
+.team {
   background-color: #f4f4fd;
 }
 .team-ul {
-  list-style-type: none;
+  background-color: #ffffff;
 }

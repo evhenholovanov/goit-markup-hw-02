@@ -1,13 +1,20 @@
-#hero {
+.hero {
   background-color: #2e2f42;
   color: white;
 }
 
-button {
+.order-button {
+  line-height: 1.5;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.04em;
   background-color: #4d5ae5;
   color: white;
   cursor: pointer;
 }
-button:hover {
+.order-button:hover {
+  background-color: #404bbf;
+}
+.order-button:focus {
   background-color: #404bbf;
 }
