@@ -1,6 +1,10 @@
 .team {
   background-color: #f4f4fd;
 }
-.team-ul {
+.team-ul > li {
   background-color: #ffffff;
+}
+.team-ul > li > h3,
+.team-ul > li > p {
+  text-align: center;
 }
